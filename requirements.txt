@@ -15,7 +15,7 @@ filelock==3.0.12
 Flask==1.1.2
 Flask-BabelEx==0.9.4
 Flask-Cache==0.13.1
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 Flask-Login==0.5.0
 Flask-Mail==0.9.1
 Flask-MySQL==1.4.0
